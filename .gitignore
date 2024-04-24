@@ -1,0 +1,9 @@
+# Ignore IDE-specific files
+.idea/
+
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore log files
+*.log
